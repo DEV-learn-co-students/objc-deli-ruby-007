@@ -4,5 +4,9 @@ before_install:
   - brew update
   - brew remove xctool
   - brew install xctool
+  
+notifications:
+  webhooks:
+    - http://staging.ironbroker.flatironschool.com/e/github/push/lab_update
 
 script: xctool -reporter pretty -project objc-deli/Objc-deli.xcodeproj -sdk iphonesimulator7.0 -scheme Objc-deli build test
