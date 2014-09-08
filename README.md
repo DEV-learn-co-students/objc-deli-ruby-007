@@ -1,6 +1,6 @@
 ---
   tags: iteration
-  languages: 
+  languages: ruby
 ---
 
 # Deli Counter - Take a Number
