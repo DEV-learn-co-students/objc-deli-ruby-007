@@ -1,6 +1,6 @@
 ---
-  tags: iteration, forms
-  languages: ruby
+  tags: methods, iteration
+  languages: objc
 ---
 
 # Deli Counter - Take a Number
