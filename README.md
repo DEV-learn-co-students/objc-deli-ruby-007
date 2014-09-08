@@ -1,5 +1,5 @@
 ---
-  tags: arrays, forms
+  tags: arrays, forms, foo
   languages: objc
 ---
 
