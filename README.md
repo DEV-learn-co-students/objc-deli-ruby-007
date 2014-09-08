@@ -1,6 +1,6 @@
 ---
   tags: iteration, ActiveRecord
-  languages: ruby
+  languages: 
 ---
 
 # Deli Counter - Take a Number
