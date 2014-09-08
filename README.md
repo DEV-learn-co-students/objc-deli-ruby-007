@@ -1,5 +1,5 @@
 ---
-  tags: arrays, forms, asdfaa fds
+  tags: arrays, forms
   languages: objc
 ---
 
