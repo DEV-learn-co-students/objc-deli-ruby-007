@@ -1,6 +1,6 @@
 ---
   tags: arrays
-  languages: objc, , , , , fj, , ajdjas, , dgas, , , , d, , as, , , , ga, , f, , g, , a, , sf, , g, , , , a, , , , g
+  languages: objc, , , , , , , , , , , , , ajdjas, , , , dgas, , , , , , , , d, , , , as, , , , , , , , ga, , , , f, , , , g, , , , a, , , , sf, , , , g, , , , , , , , a, , , , , , , , g
 ---
 
 # Deli Counter - Take a Number
