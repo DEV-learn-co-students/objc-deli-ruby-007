@@ -1,5 +1,5 @@
 ---
-  tags: iteration, ActiveRecord
+  tags: iteration, ActiveRecord, forms
   languages: ruby
 ---
 
