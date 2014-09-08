@@ -1,5 +1,5 @@
 ---
-  tags: methods, orm
+  tags: methods
   languages: objc
 ---
 
