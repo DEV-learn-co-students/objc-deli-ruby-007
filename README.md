@@ -1,6 +1,6 @@
 ---
-  tags: iteration, orm, ActiveRecord
-  languages: ruby
+  tags: methods, arrays
+  languages: objc
 ---
 
 # Deli Counter - Take a Number
