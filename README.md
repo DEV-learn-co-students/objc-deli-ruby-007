@@ -1,5 +1,5 @@
 ---
-  tags: iteration, orm, ActiveRecord
+  tags: iteration, ActiveRecord
   languages: ruby
 ---
 
