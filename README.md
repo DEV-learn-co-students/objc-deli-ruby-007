@@ -1,5 +1,5 @@
 ---
-  tags: iteration
+  tags: iteration, orm
   languages: ruby
 ---
 
