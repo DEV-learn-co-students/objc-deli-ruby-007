@@ -1,6 +1,6 @@
 ---
   tags: methods, forms, orm
-  languages: objc
+  languages: 
 ---
 
 # Deli Counter - Take a Number
