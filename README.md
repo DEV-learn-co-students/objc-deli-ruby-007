@@ -1,6 +1,6 @@
 ---
   tags: arrays
-  languages: objc
+  languages: objc, a
 ---
 
 # Deli Counter - Take a Number
