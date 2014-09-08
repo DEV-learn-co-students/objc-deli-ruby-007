@@ -1,5 +1,5 @@
 ---
-  tags: methods, arrays
+  tags: arrays, iteration
   languages: objc
 ---
 
