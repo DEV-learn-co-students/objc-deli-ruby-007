@@ -1,5 +1,5 @@
 ---
-  tags: iteration
+  tags: iteration, rails
   languages: objc
 ---
 
