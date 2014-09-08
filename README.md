@@ -1,5 +1,5 @@
 ---
-  tags: methods, forms, orm
+  tags: forms, orm
   languages: 
 ---
 
