@@ -1,6 +1,6 @@
 ---
   tags: arrays
-  languages: objc, , , ruby
+  languages: objc, , 
 ---
 
 # Deli Counter - Take a Number
