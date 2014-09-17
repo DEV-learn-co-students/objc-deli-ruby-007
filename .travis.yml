@@ -10,4 +10,4 @@ notifications:
     - http://staging.ironbroker.flatironschool.com/e/github/push/lab_update
     - http://staging.ironbroker.flatironschool.com/e/travis/build
 
-script: xctool -reporter json-stream -workspace objc-deli/Objc-deli.xcodeproj -sdk iphonesimulator7.0 -scheme Objc-deli build test
+script: xctool -reporter json-stream -workspace objc-deli/Objc-deli.xcworkspace -sdk iphonesimulator7.1 -scheme Objc-deli build test
