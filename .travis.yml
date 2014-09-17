@@ -7,7 +7,6 @@ before_install:
 
 notifications:
   webhooks:
-    - http://staging.ironbroker.flatironschool.com/e/github/push/lab_update
     - http://staging.ironbroker.flatironschool.com/e/travis/build
 
 script: xctool -reporter json-stream -workspace objc-deli/Objc-deli.xcworkspace -sdk iphonesimulator7.1 -scheme Objc-deli build test
