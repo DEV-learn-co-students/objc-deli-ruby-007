@@ -1,10 +1,10 @@
 language: objective-c
 
-before_install: 
+before_install:
   - brew update
   - brew remove xctool
   - brew install xctool
-  
+
 notifications:
   webhooks:
     - http://staging.ironbroker.flatironschool.com/e/github/push/lab_update
