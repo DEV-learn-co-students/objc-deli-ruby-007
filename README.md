@@ -13,6 +13,7 @@ At the beginning of the day, the deli is empty and is represented by an empty ar
 
 Example: 
 
+DOES THIS WORK
 
 Write all of your code in `FISAppDelegate.m`.  All method signatures should be added to 'FISAppDelegate.h'.
 
