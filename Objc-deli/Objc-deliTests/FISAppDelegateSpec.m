@@ -20,7 +20,7 @@ describe(@"FISAppDelegate", ^{
     beforeAll(^{
         delegate = [[FISAppDelegate alloc] init];
     });
-    
+
     beforeEach(^{
         deliLine = [[NSMutableArray alloc] init];
     });
@@ -63,14 +63,14 @@ describe(@"FISAppDelegate", ^{
         });
 
         it(@"Should return The line is empty if it's empty", ^{
-            expect([delegate lineWithDeli:deliLine]).to.equal(@"The line is empty");
+            expect("foo").to.equal("bar");
         });
     });
 
     afterEach(^{
 
     });
-    
+
     afterAll(^{
 
     });
